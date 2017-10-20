@@ -1,0 +1,17 @@
+name: Maquinas
+api: 2.0.0
+version: 1
+author: DanielYTK
+main: DanielYTK\Geradores\Main
+commands:
+    buster:
+        description: Comprar o combustivel do gerador
+        permission: buster.buster
+    maquinas:
+        description: Comprar um gerador
+        permission: maquina.maquina
+permissions:
+    buster.buster:
+        default: true
+    maquina.maquina:
+        default: true
