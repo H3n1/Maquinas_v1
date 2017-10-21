@@ -1,6 +1,6 @@
 # Maquinas_v1
 
-author: DanielYTK
+Author: DanielYTK
 
 Twitter: @GAndroid1
 
